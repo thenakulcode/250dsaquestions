@@ -7,7 +7,6 @@ I’m using it to organize my practice, track progress, and revise concepts effi
 
 📁 Folder Structure
 
-      250dsaquestions/
       │
       ├── Arrays/
       │
