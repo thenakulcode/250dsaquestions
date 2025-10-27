@@ -30,16 +30,16 @@ Mainly C++, may add other languages later.
 
 🎯 Purpose
 
-🗂️ Keep my solved DSA problems organized
+     🗂️ Keep my solved DSA problems organized
 
-📈 Track learning and improvements
+     📈 Track learning and improvements
 
-🧩 Strengthen concepts before interviews and exams
+     🧩 Strengthen concepts before interviews and exams
 
 🌱 Personal Notes
 
-✅ Arrays started
+    ✅ Arrays started
 
-🚀 Will continue adding more problems regularly
+    🚀 Will continue adding more problems regularly
 
 ⭐ A personal space to grow through consistency and logic.
