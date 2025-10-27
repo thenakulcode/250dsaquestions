@@ -3,13 +3,12 @@
 This repository is my personal collection of Data Structures and Algorithms (DSA) questions and solutions.
 I’m using it to organize my practice, keep track of progress, and revise concepts efficiently.
 
-📂 Current Progress
-Topic	Questions Solved	Status
-Arrays	3	✅ In Progress
-🧩 Repository Structure
-📦 DSA-Practice
- ┣ 📂 Arrays
- ┗ 📜 README.md
+250dsaquestions/
+│
+├── Arrays/
+
+└── README.md
+
 
 
 Each folder contains:
