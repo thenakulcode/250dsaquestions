@@ -69,7 +69,7 @@ int main() {
 // Approach 3 is Hash set 
 // We are declearing a hash set seen
 // Loop through the array check that the element is already in the set 
-// IF it is return true and insert the element in the set and if is not return false
+// IF it is return true and if not insert the element in the set and if is not return false
 // The time Complexity is O(n) and space is O(n)
 
 
